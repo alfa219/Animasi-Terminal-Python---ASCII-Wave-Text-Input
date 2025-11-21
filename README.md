@@ -61,8 +61,33 @@ python spike.py
 4. Mencatat setiap aktivitas ke dalam file log.
 5. Berjalan terus sampai dihentikan secara manual.
 
+
+
+
+# Program Animasi Terminal Python (ASCII Wave + Text Input)
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
+
+Program ini adalah aplikasi animasi berbasis terminal yang dibuat menggunakan Python.
+Pengguna dapat menampilkan animasi gelombang ASCII serta animasi teks berdasarkan input pengguna.
+Program mendukung pengaturan kecepatan animasi dan pencatatan log aktivitas.
+
+Program berjalan langsung di terminal dan memanfaatkan library `colorama` untuk efek warna serta sistem logging untuk mencatat aktivitas pengguna.
+
+---
+
+## Demo Animasi
+
+Berikut contoh hasil animasi (ganti URL ini dengan GIF kamu sendiri):
+
+![Demo Animasi](https://via.placeholder.com/800x250?text=Demo+Animasi+ASCII+Wave)
+
+
 ## Lisensi
 
 Proyek ini bebas digunakan, dimodifikasi, dan dikembangkan sesuai kebutuhan.
-<img width="1431" height="492" alt="image" src="https://github.com/user-attachments/assets/1488a216-3547-4c88-8e63-2bf0ab807af7" />
+
 
