@@ -38,8 +38,7 @@ Program dapat dihentikan dengan aman menggunakan `Ctrl + C` tanpa menampilkan er
 
 Pastikan Python versi 3.8 atau lebih baru telah terpasang.
 
-1. Clone repository:
-2. 
+1. Clone repository: 
 2. Buat dan aktifkan virtual environment:
 
 Windows:
