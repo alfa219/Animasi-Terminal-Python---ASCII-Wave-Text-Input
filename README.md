@@ -1,10 +1,17 @@
 # Program Animasi Terminal Python (ASCII Wave + Text Input)
 
-Program ini adalah aplikasi animasi berbasis terminal yang dibuat menggunakan Python.  
-Pengguna dapat menampilkan animasi gelombang ASCII serta animasi teks berdasarkan input pengguna.  
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
+
+Program ini adalah aplikasi animasi berbasis terminal yang dibuat menggunakan Python.
+Pengguna dapat menampilkan animasi gelombang ASCII serta animasi teks berdasarkan input pengguna.
 Program mendukung pengaturan kecepatan animasi dan pencatatan log aktivitas.
 
 Program berjalan langsung di terminal dan memanfaatkan library `colorama` untuk efek warna serta sistem logging untuk mencatat aktivitas pengguna.
+
+---
 
 ## Fitur Utama
 
@@ -64,26 +71,14 @@ python spike.py
 
 
 
-# Program Animasi Terminal Python (ASCII Wave + Text Input)
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
-
-Program ini adalah aplikasi animasi berbasis terminal yang dibuat menggunakan Python.
-Pengguna dapat menampilkan animasi gelombang ASCII serta animasi teks berdasarkan input pengguna.
-Program mendukung pengaturan kecepatan animasi dan pencatatan log aktivitas.
-
-Program berjalan langsung di terminal dan memanfaatkan library `colorama` untuk efek warna serta sistem logging untuk mencatat aktivitas pengguna.
-
----
 
 ## Demo Animasi
 
-Berikut contoh hasil animasi (ganti URL ini dengan GIF kamu sendiri):
+Berikut contoh hasil animasi 
 
-![Demo Animasi](https://via.placeholder.com/800x250?text=Demo+Animasi+ASCII+Wave)
+<img width="1431" height="492" alt="image" src="https://github.com/user-attachments/assets/2b439dcd-75d9-4069-a5e2-e216897e04af" />
+
 
 
 ## Lisensi
