@@ -64,4 +64,5 @@ python spike.py
 ## Lisensi
 
 Proyek ini bebas digunakan, dimodifikasi, dan dikembangkan sesuai kebutuhan.
+<img width="1431" height="492" alt="image" src="https://github.com/user-attachments/assets/1488a216-3547-4c88-8e63-2bf0ab807af7" />
 
