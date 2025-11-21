@@ -39,3 +39,30 @@ Program dapat dihentikan dengan aman menggunakan `Ctrl + C` tanpa menampilkan er
 Pastikan Python versi 3.8 atau lebih baru telah terpasang.
 
 1. Clone repository:
+2. 
+2. Buat dan aktifkan virtual environment:
+
+Windows:
+
+3. Install dependency:
+pip install colorama
+
+## Cara Menjalankan Program
+
+Jalankan file utama:
+python spike.py
+
+
+
+## Cara Kerja Program
+
+1. Program meminta teks dari pengguna.
+2. Menampilkan teks tersebut secara bertahap.
+3. Memulai animasi wave menggunakan karakter "-".
+4. Mencatat setiap aktivitas ke dalam file log.
+5. Berjalan terus sampai dihentikan secara manual.
+
+## Lisensi
+
+Proyek ini bebas digunakan, dimodifikasi, dan dikembangkan sesuai kebutuhan.
+
